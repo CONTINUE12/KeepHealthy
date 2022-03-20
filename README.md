@@ -70,5 +70,8 @@
 
 https://blog.csdn.net/qq_39144436/article/details/123140317
 
-#### 其他项目请查看本人请他仓库
+#### 其他仓库项目链接
+
+基于Spring Boot、Mybatis、MySQL、Lombok、Web Bluetooth API、Thymeleaf、AdminLTE3、JqGrid 的RIREE交互系统
+https://github.com/CONTINUE12/RIREE
 
