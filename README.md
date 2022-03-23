@@ -74,6 +74,7 @@ https://blog.csdn.net/qq_39144436/article/details/123140317
 
 1.基于Spring Boot、Mybatis、MySQL、Lombok、Web Bluetooth API、Thymeleaf、AdminLTE3、JqGrid 的RIREE交互系统
 https://github.com/CONTINUE12/RIREE
+
 2.基于Spring+SpringMVC+Mybatis的图书管理系统
 https://github.com/CONTINUE12/SSM_LibrarySystem
 
