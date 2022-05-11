@@ -1,16 +1,15 @@
-# 众医平台PMP项目
+# KeepHealthy健康服务平台项目 
 
 #### 介绍
-  该项目包含网上预约挂号业务和肺癌风险评估业务两部分，旨在缓解看病难、挂号难的问题。
-  其中，该仓库即为在线医疗预约挂号系统，登录后通过选择医院、科室、时间段进行挂号预约，生成订单。实现微信支付订单后会收到成功短信提醒等功能。
+  基于微服务架构，包括健康社区业务、体检预约业务和肺癌AI风险评估业务，帮助大众维护身体健康。
   
-  肺癌风险评估业务仓库如下：
+  肺癌AI风险评估业务仓库如下：
   https://github.com/CONTINUE12/DeepLearning-for-Medical-Image-Processing
 
 #### 软件架构
   软件架构说明: 前后端分离 
 
-  后端：springboot+nacos+gateway网关搭建
+  后端：springboot+springcloud搭建
 
   前端: 1、用户的前端架构是使用了服务端渲染技术nuxt; 
         2、管理员的前端使用了 Vue 2.x 的 Element UI 
@@ -19,7 +18,7 @@
 后端技术：
 - 1、SpringBoot 
 - 2、SpringCloud
-（1）Nacos注册中心
+（1）Eureka注册中心
 （2）Feign
 （3）GateWay
 - 3、Redis
@@ -60,15 +59,6 @@
 - String accountSId = 请设置为自己的
 - String accountToken = 请设置为自己的
 - String appId = 请设置为自己的
-
-
-#### 业务流程
-
-![输入图片说明](%E4%BC%97%E5%8C%BB%E5%B9%B3%E5%8F%B0%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
-
-#### 服务架构
-
-![输入图片说明](%E4%BC%97%E5%8C%BB%E5%B9%B3%E5%8F%B0%E6%9E%B6%E6%9E%84%E5%9B%BE%20.png)
 
 #### 项目讲解博客
 
