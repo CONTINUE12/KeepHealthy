@@ -3,6 +3,9 @@
 #### 介绍
   基于微服务架构，包括健康社区业务、体检预约业务和肺癌AI风险评估业务，帮助大众维护身体健康。
   
+  健康社区业务仓库如下：
+  https://github.com/CONTINUE12/RIREE
+  
   肺癌AI风险评估业务仓库如下：
   https://github.com/CONTINUE12/DeepLearning-for-Medical-Image-Processing
 
@@ -66,18 +69,15 @@ https://blog.csdn.net/qq_39144436/article/details/123140317
 
 #### 其他仓库项目链接
 
-1.基于Spring Boot、Mybatis、MySQL、Lombok、Web Bluetooth API、Thymeleaf、AdminLTE3、JqGrid 的RIREE交互系统
-https://github.com/CONTINUE12/RIREE
-
-2.基于Spring+SpringMVC+Mybatis的图书管理系统
+1.基于Spring+SpringMVC+Mybatis的图书管理系统
 https://github.com/CONTINUE12/SSM_LibrarySystem
 
-3.基于SpringBoot2.0+Mybatis的学生成绩管理系统
+2.基于SpringBoot2.0+Mybatis的学生成绩管理系统
 https://github.com/CONTINUE12/SpringBoot_StudentManagerSystem
 
-4.基于JAVAWEB的超市订单管理系统SMBMS
+3.基于JAVAWEB的超市订单管理系统SMBMS
 https://github.com/CONTINUE12/Javaweb-SMBMS
 
-5.基于AWT和Swing及MYSQL开发的学校教务系统
+4.基于AWT和Swing及MYSQL开发的学校教务系统
 https://github.com/CONTINUE12/JavaSE_School_Management_System
 
