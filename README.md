@@ -63,10 +63,6 @@
 - String accountToken = 请设置为自己的
 - String appId = 请设置为自己的
 
-#### 项目讲解博客
-
-https://blog.csdn.net/qq_39144436/article/details/123140317
-
 #### 其他仓库项目链接
 
 1.基于Spring+SpringMVC+Mybatis的图书管理系统
