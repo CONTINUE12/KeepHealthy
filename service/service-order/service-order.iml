@@ -25,6 +25,18 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.redisson:redisson-spring-boot-starter:3.11.0" level="project" />
+    <orderEntry type="library" name="Maven: org.redisson:redisson:3.11.0" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-resolver-dns:4.1.43.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec-dns:4.1.43.Final" level="project" />
+    <orderEntry type="library" name="Maven: javax.cache:cache-api:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: io.reactivex.rxjava2:rxjava:2.2.14" level="project" />
+    <orderEntry type="library" name="Maven: de.ruedigermoeller:fst:2.57" level="project" />
+    <orderEntry type="library" name="Maven: org.objenesis:objenesis:2.5.1" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.10.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jodd:jodd-bean:5.0.10" level="project" />
+    <orderEntry type="library" name="Maven: org.jodd:jodd-core:5.0.10" level="project" />
+    <orderEntry type="library" name="Maven: org.redisson:redisson-spring-data-21:3.11.0" level="project" />
     <orderEntry type="module" module-name="service_cmn_client" />
     <orderEntry type="module" module-name="service_hosp_client" />
     <orderEntry type="module" module-name="service_user_client" />

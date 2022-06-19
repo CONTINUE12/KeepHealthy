@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: commons-fileupload:commons-fileupload:1.4">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../Tool_use/maven/apache-maven-3.6.1/maven-repository/commons-fileupload/commons-fileupload/1.4/commons-fileupload-1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.4/commons-fileupload-1.4.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../../Tool_use/maven/apache-maven-3.6.1/maven-repository/commons-fileupload/commons-fileupload/1.4/commons-fileupload-1.4-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.4/commons-fileupload-1.4-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../Tool_use/maven/apache-maven-3.6.1/maven-repository/commons-fileupload/commons-fileupload/1.4/commons-fileupload-1.4-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.4/commons-fileupload-1.4-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

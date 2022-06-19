@@ -28,9 +28,9 @@ spring:
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://47.93.118.241:3306/p2p_hfb?characterEncoding=utf-8&useSSL=false
-    username: root
-    password: sgg_atguigudb2015
+    url:
+    username:
+    password:
     hikari:
       connection-test-query: SELECT 1
       connection-timeout: 60000

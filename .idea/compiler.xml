@@ -31,30 +31,30 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="common" target="1.8" />
-      <module name="common_util" target="1.8" />
+      <module name="common" target="8" />
+      <module name="common_util" target="8" />
       <module name="hospital-manage" target="1.8" />
-      <module name="model" target="1.8" />
-      <module name="rabbit_util" target="1.8" />
+      <module name="model" target="8" />
+      <module name="rabbit_util" target="8" />
       <module name="seg" target="1.8" />
       <module name="server-gateway" target="1.8" />
-      <module name="service" target="1.8" />
+      <module name="service" target="8" />
       <module name="service-client" target="1.8" />
-      <module name="service-cmn" target="1.8" />
-      <module name="service-hosp" target="1.8" />
-      <module name="service-msm" target="1.8" />
-      <module name="service-order" target="1.8" />
-      <module name="service-oss" target="1.8" />
+      <module name="service-cmn" target="8" />
+      <module name="service-hosp" target="8" />
+      <module name="service-msm" target="8" />
+      <module name="service-order" target="8" />
+      <module name="service-oss" target="8" />
       <module name="service-ronlianyun" target="1.8" />
-      <module name="service-statistics" target="1.8" />
-      <module name="service-task" target="1.8" />
-      <module name="service-user" target="1.8" />
+      <module name="service-statistics" target="8" />
+      <module name="service-task" target="8" />
+      <module name="service-user" target="8" />
       <module name="service_cmn_client" target="1.8" />
       <module name="service_hosp_client" target="1.8" />
       <module name="service_order_client" target="1.8" />
       <module name="service_user" target="1.8" />
       <module name="service_user_client" target="1.8" />
-      <module name="service_util" target="1.8" />
+      <module name="service_util" target="8" />
       <module name="yygh_parent" target="1.8" />
     </bytecodeTargetLevel>
   </component>

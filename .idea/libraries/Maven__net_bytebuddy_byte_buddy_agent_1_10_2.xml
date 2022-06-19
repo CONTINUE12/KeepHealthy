@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: net.bytebuddy:byte-buddy-agent:1.10.2">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../Tool_use/maven/apache-maven-3.6.1/maven-repository/net/bytebuddy/byte-buddy-agent/1.10.2/byte-buddy-agent-1.10.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy-agent/1.10.2/byte-buddy-agent-1.10.2.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../../Tool_use/maven/apache-maven-3.6.1/maven-repository/net/bytebuddy/byte-buddy-agent/1.10.2/byte-buddy-agent-1.10.2-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy-agent/1.10.2/byte-buddy-agent-1.10.2-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../Tool_use/maven/apache-maven-3.6.1/maven-repository/net/bytebuddy/byte-buddy-agent/1.10.2/byte-buddy-agent-1.10.2-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy-agent/1.10.2/byte-buddy-agent-1.10.2-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
