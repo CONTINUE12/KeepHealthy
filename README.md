@@ -4,7 +4,7 @@
   基于微服务架构，包括健康社区业务、体检预约业务和肺癌AI风险评估业务，帮助大众维护身体健康。
   
   健康社区业务仓库如下：
-  https://github.com/CONTINUE12/RIREE
+  https://github.com/CONTINUE12/HealthyCommunity
   
   肺癌AI风险评估业务仓库如下：
   https://github.com/CONTINUE12/DeepLearning-for-Medical-Image-Processing
